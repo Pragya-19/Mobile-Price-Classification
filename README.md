@@ -177,6 +177,14 @@ Mobile-Price-Classification/
 4. Run all cells  
 
 ---
+## 📊 Visual Insights
+
+### Heatmap
+![Heatmap](heatmap.png)
+
+### Model Output
+![Model Output](model-output.png)
+
 
 ## 🔮 Future Improvements
 
