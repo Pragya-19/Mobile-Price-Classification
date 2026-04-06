@@ -155,6 +155,7 @@ Features include:
 
 ## 📂 Project Structure
 Mobile-Price-Classification/
+
 │
 ├── mobile-price-classification-final.ipynb
 
